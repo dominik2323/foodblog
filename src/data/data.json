@@ -1,0 +1,67 @@
+{
+	"data": [{
+			"id": 1,
+			"active": true, 
+			"secretOne": false,
+			"url": "/project/cokoladovy-puding",
+			"projectName": "Čokoládový puding z tapioky",
+			"subTitle": "Zdravá verze",
+			"awards": {
+				"active": false,
+				"content": []
+			},
+			"cooperation": "Dominik Tomczik",
+			"mainTag": ["breakfast", "dessert"],
+			"annotation": "Receptů na tapiokový pudink je dost. Nicméně můj je vylepšený jakožto klasický čokoládový, tak se vám snad bude hodit i jako dezert nebo rychlá snídaně. Ocení ji i děti jako variantu zdravějšího čokoládového pudinku:-). Jde si pohrát i s dochucením čokolády skořicí nebo chilli…\n\nZáměrně neuvádím množství, záleží na Vaší chuti, kolik tam budete chtít čeho dát.",
+			"ingredients": [
+				{
+					"name": "tapioka",
+					"amount": 500,
+					"unit": "g",
+					"note": ""
+				}, {
+					"name": "kokosové mléko",
+					"amount": 300,
+					"unit": "ml",
+					"note": ""
+				}, {
+					"name": "kvalitní čokoláda",
+					"amount": 200,
+					"unit": "g",
+					"note": "(60 % a více)"
+				}, {
+					"name": "med",
+					"amount": 1,
+					"unit": "lžíce",
+					"note": ""
+				}, {
+					"name": "ovoce k servírování",
+					"amount": "",
+					"unit": "hrst",
+					"note": "hodí se kyselejší, jako třeba červený rybíz nebo ostružiny na fotce"
+				}
+			],
+			"instructions": [
+				"Požadované množství tapioky dáme pár hodin předem namočit do vody.",
+				"Až je tapioka nabobtnalá (při poměru 1:1 vám tam nezbyde voda na slití), dám ji do hrnce s čokoládou, kokosovým mlékem a medem a vařím do zhoustnutí konzistence pudinku.",
+				"Zdobím ovocem a podávám (podle chuti buď ještě teplý nebo vychlazený)."
+			],
+			"landingPageImage": {
+				"src": "/img/cokoladovy-puding/intro.jpg",
+				"alt": "Čokoládový puding z tapioky"
+			},
+			"intro": {
+				
+			},
+			"content": [[
+				{
+					"cols": 6,
+					"src": "/img/cokoladovy-puding/intro.jpg",
+					"alt": "Čokoládový puding z tapioky",
+					"title": {
+						"active": false
+					}
+				}
+			]]
+		}]
+}
